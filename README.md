@@ -4,5 +4,6 @@ It's an android project. I implement just basic mathematical operations (+, -, *
 ### Some Screenshot of this app:
 
 
-![Screenshot_20220918_232511](https://user-images.githubusercontent.com/96804371/190920450-e585a84f-2b62-494e-8c09-4948701614eb.png)
-![Screenshot_20220918_232605](https://user-images.githubusercontent.com/96804371/190920462-48f63326-be8c-474f-aba4-e95e1fa7af0e.png)
+
+![Screenshot_01](https://user-images.githubusercontent.com/96804371/190920574-c7560234-8fa7-436d-9aa5-0f004a33e9c2.png)
+![Screenshot_02](https://user-images.githubusercontent.com/96804371/190920578-f548ddef-42be-4fc0-868b-527236762e79.png)
